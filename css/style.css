@@ -40,13 +40,12 @@ header img {
   background-image: url(../images/banner.jpg);
   background-size: cover;
   height: 400px;
-  margin-bottom: 70px;
+  margin-bottom: 40px;
 }
 
 .scheda1 h1 {
   color: #25a2c3;
   font-family: "Montserrat", sans-serif;
-  line-height: 1.5rem;
   font-size: 1.6rem;
   padding-top: 40px;
   width: 50%;
@@ -55,7 +54,6 @@ header img {
 
 .scheda1 p {
   width: 95%;
-  margin: auto;
   padding-top: 20px;
   padding-bottom: 40px;
 }
@@ -134,7 +132,7 @@ header img {
   width: 400px;
   border: 1px solid #dee1e3;
   margin: auto;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .scheda3 img {
@@ -156,7 +154,7 @@ header img {
   width: 400px;
   border: 1px solid #dee1e3;
   margin: auto;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .scheda4 img {
@@ -172,4 +170,43 @@ header img {
   font-size: 1rem;
   padding-bottom: 40px;
   width: 350px;
+}
+
+/*FOOTER*/
+footer {
+  background-color: #25a2c3;
+  color: #c8e7f0;
+  margin-top: 60px;
+}
+
+footer h2 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+footer a {
+  color: #c8e7f0;
+  font-size: small;
+}
+
+footer p {
+  font-size: small;
+}
+
+footer hr {
+  width: 200px;
+  height: 0.5px;
+}
+
+.adress {
+  padding-bottom: 20px;
+}
+
+.copyright {
+  padding-top: 20px;
+  padding-bottom: 80px;
 }
