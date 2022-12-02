@@ -210,3 +210,11 @@ footer hr {
   padding-top: 20px;
   padding-bottom: 80px;
 }
+
+i {
+  color: white;
+}
+
+.fa-solid {
+  display: inline;
+}
