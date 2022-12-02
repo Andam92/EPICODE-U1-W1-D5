@@ -199,7 +199,7 @@ footer p {
 
 footer hr {
   width: 200px;
-  height: 0.5px;
+  border: 1px solid #c8e7f0;
 }
 
 .adress {
