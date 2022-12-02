@@ -1,1 +1,175 @@
-/* Your styles here */
+/*GENERAL */
+* {
+  width: 450px;
+  text-align: center;
+}
+
+header {
+  background-color: black;
+}
+
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  line-height: 1.65rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5rem;
+  font-size: 1.3rem;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+p {
+  width: 400px;
+  margin: auto;
+}
+
+/*HEADER */
+header img {
+  width: 150px;
+  padding: 30px;
+}
+
+/*MAIN*/
+.scheda1 {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  height: 400px;
+  margin-bottom: 70px;
+}
+
+.scheda1 h1 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5rem;
+  font-size: 1.6rem;
+  padding-top: 40px;
+  width: 50%;
+  margin: auto;
+}
+
+.scheda1 p {
+  width: 95%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.scheda1 button {
+  background-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  width: 180px;
+  padding: 17px;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.notebook {
+  padding-top: 40px;
+  border-radius: 500px;
+  width: 350px;
+  height: 350px;
+}
+
+.quote {
+  margin-top: 60px;
+  background-color: #e22d0e;
+  color: white;
+  padding-bottom: 40px;
+}
+
+.quote h2 {
+  font-size: 1.6rem;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.quote blockquote {
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+  font-size: small;
+  padding-bottom: 40px;
+}
+
+.quote p {
+  font-family: "Open Sans", sans-serif;
+  font-size: small;
+}
+
+.quote span {
+  font-family: "Open Sans ", sans-serif;
+  font-size: xx-small;
+}
+
+.scheda2 {
+  width: 400px;
+  border: 1px solid #dee1e3;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.scheda2 img {
+  width: 400px;
+}
+
+.scheda2 h3 {
+  font-size: 1.2rem;
+  width: 400px;
+}
+
+.scheda2 p {
+  font-size: 1rem;
+  padding-bottom: 40px;
+  width: 350px;
+}
+
+.scheda3 {
+  width: 400px;
+  border: 1px solid #dee1e3;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.scheda3 img {
+  width: 400px;
+}
+
+.scheda3 h3 {
+  font-size: 1.2rem;
+  width: 400px;
+}
+
+.scheda3 p {
+  font-size: 1rem;
+  padding-bottom: 40px;
+  width: 350px;
+}
+
+.scheda4 {
+  width: 400px;
+  border: 1px solid #dee1e3;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.scheda4 img {
+  width: 400px;
+}
+
+.scheda4 h3 {
+  font-size: 1.2rem;
+  width: 400px;
+}
+
+.scheda4 p {
+  font-size: 1rem;
+  padding-bottom: 40px;
+  width: 350px;
+}
