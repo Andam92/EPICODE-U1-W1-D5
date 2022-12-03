@@ -66,6 +66,7 @@ header img {
   padding: 17px;
   text-align: center;
   border-radius: 6px;
+  border: 0px;
 }
 
 .notebook {
@@ -200,21 +201,28 @@ footer p {
 footer hr {
   width: 200px;
   border: 1px solid #c8e7f0;
+  margin-block: 0; /*non capisco perché il browser non mi resetta il margin-block di questo hr */
 }
 
 .adress {
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .copyright {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 80px;
+  font-size: x-small;
 }
 
 i {
   color: white;
+  font-size: x-small;
 }
 
 .fa-solid {
   display: inline;
+}
+
+p a {
+  font-size: x-small;
 }
